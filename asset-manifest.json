@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DimaMakarchev/react-proteinsecond/static/css/main.375f3ee7.chunk.css",
+    "main.js": "/DimaMakarchev/react-proteinsecond/static/js/main.17b22e6a.chunk.js",
+    "main.js.map": "/DimaMakarchev/react-proteinsecond/static/js/main.17b22e6a.chunk.js.map",
+    "runtime-main.js": "/DimaMakarchev/react-proteinsecond/static/js/runtime-main.639d506f.js",
+    "runtime-main.js.map": "/DimaMakarchev/react-proteinsecond/static/js/runtime-main.639d506f.js.map",
+    "static/js/2.833968df.chunk.js": "/DimaMakarchev/react-proteinsecond/static/js/2.833968df.chunk.js",
+    "static/js/2.833968df.chunk.js.map": "/DimaMakarchev/react-proteinsecond/static/js/2.833968df.chunk.js.map",
+    "static/js/3.62f9b6c6.chunk.js": "/DimaMakarchev/react-proteinsecond/static/js/3.62f9b6c6.chunk.js",
+    "static/js/3.62f9b6c6.chunk.js.map": "/DimaMakarchev/react-proteinsecond/static/js/3.62f9b6c6.chunk.js.map",
+    "index.html": "/DimaMakarchev/react-proteinsecond/index.html",
+    "static/css/main.375f3ee7.chunk.css.map": "/DimaMakarchev/react-proteinsecond/static/css/main.375f3ee7.chunk.css.map",
+    "static/js/2.833968df.chunk.js.LICENSE.txt": "/DimaMakarchev/react-proteinsecond/static/js/2.833968df.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DimaMakarchev/react-proteinsecond/static/media/menuback.b2357b99.jpg",
+    "static/media/preloader.5788b05c.svg": "/DimaMakarchev/react-proteinsecond/static/media/preloader.5788b05c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.639d506f.js",
+    "static/js/2.833968df.chunk.js",
+    "static/css/main.375f3ee7.chunk.css",
+    "static/js/main.17b22e6a.chunk.js"
+  ]
+}
